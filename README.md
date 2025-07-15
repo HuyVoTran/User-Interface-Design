@@ -40,5 +40,7 @@ Main<br>
 │       └── … (các file nguồn khác)<br>
 
 ## Tài Liệu Tham Khảo:
-
+- [Dirty Coins](https://dirtycoins.vn/)
+- [Welcome to Figma](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
+- [Get started with Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
