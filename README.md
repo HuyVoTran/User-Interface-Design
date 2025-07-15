@@ -5,6 +5,17 @@
 **Lớp:** 243_71ITSE30903_0201<br>
 **Giảng Viên Hướng Dẫn:** ThS. Đặng Đình Hòa<br>
 
+## Link Hosting:
+### Netlify:
+- Trang chủ: [Index](https://huyvotran.github.io/User-Interface-Design/sources/)
+- Trang danh sách sản phẩm: [Shop](https://huyvotran.github.io/User-Interface-Design/sources/shop.html)
+- Trang sản phẩm: [Product](https://huyvotran.github.io/User-Interface-Design/sources/product.html)
+
+### Github Pages:
+- Trang chủ: [Index](https://huyvotran.github.io/User-Interface-Design/sources/)
+- Trang danh sách sản phẩm: [Shop](https://huyvotran.github.io/User-Interface-Design/sources/shop.html)
+- Trang sản phẩm: [Product](https://huyvotran.github.io/User-Interface-Design/sources/product.html)
+
 ## Cấu Trúc Thư Mục:
 Main<br>
 ├── docs/<br>
