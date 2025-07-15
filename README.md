@@ -32,7 +32,7 @@ Main<br>
 │   ├── index.html<br>
 │   ├── shop.html<br>
 │   ├── product.html<br>
-│   └── srcs/<br>
+│   └── assets/<br>
 │       └── … (các file nguồn khác)<br>
 
 ## Tài Liệu Tham Khảo:
