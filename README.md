@@ -11,10 +11,12 @@ Main<br>
 │   ├── HK243_TKGDPM_DAMH_Nhom9_BaoCao.docx (File Báo Cáo)<br>
 │   ├── Thuyết Trình.docx<br>
 │   └── Thuyết Trình.ppt<br>
+│<br>
 ├── designs/<br>
 │   ├── Figma Design - Index.pdf<br>
 │   ├── Figma Design - Shop.pdf<br>
 │   └── Figma Design - Product.pdf<br>
+│<br>
 ├── sources/<br>
 │   ├── index.html<br>
 │   ├── shop.html<br>
