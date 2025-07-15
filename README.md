@@ -5,6 +5,10 @@
 **Lớp:** 243_71ITSE30903_0201<br>
 **Giảng Viên Hướng Dẫn:** ThS. Đặng Đình Hòa<br>
 
+## Thành Viên:
+- Trần Võ Huy - 2374802010192
+- Nguyễn Trương Đức Huy - 2374802010186
+
 ## Link Hosting:
 ### Netlify:
 - Trang chủ: [Index](https://huyvotran.github.io/User-Interface-Design/sources/)
