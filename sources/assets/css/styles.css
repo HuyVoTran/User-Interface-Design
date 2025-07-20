@@ -170,7 +170,7 @@ a {
 @media (min-width: 1400px) {
   .logo {
     height: 10vh;
-    width: auto;
+    width: 7.5vw;
   }
 }
 
@@ -196,7 +196,7 @@ a {
 @media (min-width: 1400px) {
   .right-header {
     height: 10vh;
-    width: 20vw;
+    width: 27.5vw;
     padding: 0;
   }
 }
@@ -244,6 +244,85 @@ a {
   .shop-right {
     width: 20%;
     max-width: 20%;
+  }
+}
+
+.login-button {
+  background: rgb(255,255,255);
+  border-width: 1px;
+  width: 100%;
+  height: 5vh;
+  color: #000000;
+}
+
+.login-button:hover {
+  background: black;
+  border-width: 1px;
+  width: 100%;
+  height: 5vh;
+  color: white;
+}
+
+.cart-left {
+  width: 100%;
+}
+
+@media (min-width: 1400px) {
+  .cart-left {
+    width: 65%;
+  }
+}
+
+.cart-right {
+  width: 100%;
+  background: #ffffff;
+}
+
+@media (min-width: 1400px) {
+  .cart-right {
+    width: 35%;
+    background: #ffffff;
+  }
+}
+
+.checkout-left {
+  width: 100%;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+@media (min-width: 1400px) {
+  .checkout-left {
+    width: 60%;
+    padding-left: 10vw;
+  }
+}
+
+.checkout-right {
+  width: 100%;
+  padding-right: 10vw;
+  border-left: 1px solid rgba(0,0,0,0.25);
+  padding-left: 10vw;
+}
+
+@media (min-width: 1400px) {
+  .checkout-right {
+    width: 40%;
+    padding-right: 10vw;
+    border-left: 1px solid rgba(0,0,0,0.25);
+    padding-left: 1vw;
+  }
+}
+
+.checkout-logo {
+  height: 10vh;
+  width: 25vw;
+}
+
+@media (min-width: 1400px) {
+  .checkout-logo {
+    height: 10vh;
+    width: 10vw;
   }
 }
 
