@@ -10,15 +10,9 @@
 - Nguyễn Trương Đức Huy - 2374802010186
 
 ## Link Hosting:
-### Netlify:
-- Trang chủ: [Index](https://huyvotran.github.io/User-Interface-Design/sources/)
-- Trang danh sách sản phẩm: [Shop](https://huyvotran.github.io/User-Interface-Design/sources/shop.html)
-- Trang sản phẩm: [Product](https://huyvotran.github.io/User-Interface-Design/sources/product.html)
+### Netlify: [Trang chủ](https://thietkegiaodien-nhom9.netlify.app/)
 
-### Github Pages:
-- Trang chủ: [Index](https://huyvotran.github.io/User-Interface-Design/sources/)
-- Trang danh sách sản phẩm: [Shop](https://huyvotran.github.io/User-Interface-Design/sources/shop.html)
-- Trang sản phẩm: [Product](https://huyvotran.github.io/User-Interface-Design/sources/product.html)
+### Github Pages: [Trang chủ](https://huyvotran.github.io/User-Interface-Design/sources/)
 
 ## Cấu Trúc Thư Mục:
 Main<br>
