@@ -22,14 +22,17 @@ Main<br>
 │   └── Thuyết Trình.ppt<br>
 │<br>
 ├── designs/<br>
-│   ├── Figma Design - Index.pdf<br>
-│   ├── Figma Design - Shop.pdf<br>
-│   └── Figma Design - Product.pdf<br>
+│   ├── Figma Design - PC Desktop.pdf<br>
+│   └── Figma Design - Mobile.pdf<br>
 │<br>
 ├── sources/<br>
 │   ├── index.html<br>
 │   ├── shop.html<br>
 │   ├── product.html<br>
+│   ├── login.html<br>
+│   ├── cart.html<br>
+│   ├── checkout.html<br>
+│   ├── ...<br>
 │   └── assets/<br>
 │       └── … (các file nguồn khác)<br>
 
