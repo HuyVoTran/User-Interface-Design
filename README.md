@@ -40,4 +40,7 @@ Main<br>
 - [Dirty Coins](https://dirtycoins.vn/)
 - [Welcome to Figma](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
 - [Get started with Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
+- [Nielsen Norman Group – UX Basics](https://www.nngroup.com/articles/definition-user-experience/)
+- [MDN – Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [W3Schools – Bootstrap 5](https://www.w3schools.com/bootstrap5/)
+- [Canva – Online Design Tool](https://www.canva.com/)
